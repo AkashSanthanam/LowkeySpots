@@ -1,7 +1,7 @@
 # LowkeySpots
 
 ## 👋 Introduction
-  [**_LowkeySpots_**] is a social app that enables users to share customized spots with each other on personal, interactive maps. 
+  **_LowkeySpots_** is a social app that enables users to share customized spots with each other on personal, interactive maps. 
 
   ![image](https://github.com/ObliqueHacks/LowkeyPlaces/assets/73759561/d938c75a-2cd6-448b-b4f2-02af45d05d1f)
 
