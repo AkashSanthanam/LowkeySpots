@@ -35,39 +35,45 @@ Additionally, [**MapBox**](https://www.mapbox.com/) was used for rendering maps 
 
 You can see all your requests in the **Pending** tab. Here you can choose to accept or deny friend requests
 
-![image](https://github.com/ObliqueHacks/LowkeyPlaces/assets/73759561/f9a4e60c-d92d-4f0b-aebd-948cf83859bf)
+![image](https://github.com/AkashSanthanam/LowkeySpots/assets/73759561/d7f63882-9c0a-4a9e-bd3a-5d89f04e70f4)
+
 
 If accepted, you will be able to see each other as a friend on the **Friends** tab:
 
-![image](https://github.com/ObliqueHacks/LowkeyPlaces/assets/73759561/635745c6-e3b5-4812-9ccc-04953971a0a8)
-
+![image](https://github.com/AkashSanthanam/LowkeySpots/assets/73759561/c5f95f00-c7ef-4ddf-b635-c4b0534d442a)
 
 When sending friend requests go to the **Add Friend** Tab:
 
-![image](https://github.com/ObliqueHacks/LowkeyPlaces/assets/73759561/02241704-3022-4155-8456-3dc336a9fe03)
+![image](https://github.com/AkashSanthanam/LowkeySpots/assets/73759561/28a937ba-236e-4c01-921a-850f598841a1)
+
 
 Type in the your friend's username and click Send Request:
-![image](https://github.com/ObliqueHacks/LowkeyPlaces/assets/73759561/64e8eeb8-76e8-43f2-b434-2e4111c2a22f)
+![image](https://github.com/AkashSanthanam/LowkeySpots/assets/73759561/e6f2ed61-34a9-4e8e-aee2-fa506b952164)
+
 
 If the username exists you will get this message:
 
 
-![image](https://github.com/ObliqueHacks/LowkeyPlaces/assets/73759561/6d453c24-baac-4624-afba-cb272690bcc1)
+![image](https://github.com/AkashSanthanam/LowkeySpots/assets/73759561/bc51cdc1-7400-4374-bb33-2037911eb5eb)
+
 
 **Error Handling:**
 
 _Username does not exist_
 
-![image](https://github.com/ObliqueHacks/LowkeyPlaces/assets/73759561/67816823-77b1-4dce-a9cf-20f1f0af7613)
+![image](https://github.com/AkashSanthanam/LowkeySpots/assets/73759561/fd5bef1e-b1f8-4efb-9ff9-accc776961ba)
+
 
 _Already Friends_
 
-![image](https://github.com/ObliqueHacks/LowkeyPlaces/assets/73759561/867089d3-d794-4493-8996-681ee03ea0ff)
+![image](https://github.com/AkashSanthanam/LowkeySpots/assets/73759561/90752344-7398-407f-b3e5-aba3e3c38045)
+
 
 _Request already sent_
 
 
-![image](https://github.com/ObliqueHacks/LowkeyPlaces/assets/73759561/cda98c8d-3dbe-4cf8-869f-456336468213)
+![image](https://github.com/AkashSanthanam/LowkeySpots/assets/73759561/0d827305-cf62-455f-890a-b61ad7fb2705)
+
 
 
 
@@ -76,45 +82,53 @@ _Request already sent_
 
 This is your map dashboard. Here you will be able to see all the maps you have created
 
-![image](https://github.com/ObliqueHacks/LowkeyPlaces/assets/73759561/e9d7a89d-9e18-47ab-a410-720fcaa4b956)
+![image](https://github.com/AkashSanthanam/LowkeySpots/assets/73759561/f9a336bf-5b60-4c17-815e-7ca054494950)
+
 
 In LowkeySpots, there are three different roles : **Admin**, **Collaborator**, and **Spectator**. These roles will be explained in further detail but for know all you need to know is that if you are an Admin then you can delete maps, which essentially removes all users who were part of the map. However, if you are a Collaborator or Spectator, you will have the option to leave the map. At the top you can see there is a filteration system for these roles 
 
 To create a new map simply press the New Map button. You will then be prompted this window
-![image](https://github.com/ObliqueHacks/LowkeyPlaces/assets/73759561/fa78fd15-5b65-4f51-b5fe-2c81b0b7bf47)
+![image](https://github.com/AkashSanthanam/LowkeySpots/assets/73759561/832040f9-0a77-4b1e-aef3-d9e56d657b7b)
+
 
 Once created, your map will be in your dashboard!
 
 ### Using and Sharing maps
 
 This is the map editior
-![image](https://github.com/ObliqueHacks/LowkeyPlaces/assets/73759561/5601ad9f-48f6-4cb3-8e86-679f9de60c38)
+![image](https://github.com/AkashSanthanam/LowkeySpots/assets/73759561/cd0f362a-158f-4c2d-a409-75d6742e72b7)
+
 
 On the left is the **Marker Bar**, where you **Edit**, **View Photos**,  or **Delete**. Click on the name itself will fly to the marker
 
-![image](https://github.com/ObliqueHacks/LowkeyPlaces/assets/73759561/1dadf607-0745-4109-ac65-a809edeee788)
+![image](https://github.com/AkashSanthanam/LowkeySpots/assets/73759561/edbbfd9c-25bb-4fd2-8f8d-63b41a3890dc)
+
 
 When editing a spot you will be prompted this window. As you can see, you can change **Name, Description, Color,** and **Upload Photos**
 
 
-![image](https://github.com/ObliqueHacks/LowkeyPlaces/assets/73759561/a9bc9894-edd8-4e34-a1b3-e40f6b6b0500)
+![image](https://github.com/AkashSanthanam/LowkeySpots/assets/73759561/f0695414-d270-4bbd-9f64-0667e776d901)
+
 
 
 You can view the gallery for the spot as well. Each spot can have up to 10 images:
 
-![image](https://github.com/ObliqueHacks/LowkeyPlaces/assets/73759561/4c2ec64f-9e0b-435e-8127-c256a213495d)
+![image](https://github.com/AkashSanthanam/LowkeySpots/assets/73759561/423c6872-ccc8-4474-9312-9c446f12cdb1)
 
 
-![image](https://github.com/ObliqueHacks/LowkeyPlaces/assets/73759561/6183e392-7e06-47e5-90bb-536b30d76479)
+![image](https://github.com/AkashSanthanam/LowkeySpots/assets/73759561/d56ae0cf-b891-43bc-8cf2-4da200ca168a)
+
 
 To add people on the map simply press on **Add Friend**. You will be prompted this window where you can add them as a  Collaborator or Spectator
 
 
-![image](https://github.com/ObliqueHacks/LowkeyPlaces/assets/73759561/27d8bb11-7f0b-4a5e-9c54-a58f3b571ab1)
+![image](https://github.com/AkashSanthanam/LowkeySpots/assets/73759561/92eed640-0896-400d-95b8-89a014ef342b)
+
 
 Once you add them you can see them by pressing the **Member List** button. If needed, you can either remove or change the permissions of these members
 
-![image](https://github.com/ObliqueHacks/LowkeyPlaces/assets/73759561/431566a0-ce01-47d0-8488-8b8c2e26491c)
+![image](https://github.com/AkashSanthanam/LowkeySpots/assets/73759561/852a1cef-be70-45c5-9f14-7aebb490eb65)
+
 
  - A Collobarator is someone who can do everything an Admin can except for adding/removing members
  - A Spectator is someone who can only view the map along with markers and photos
