@@ -3,7 +3,8 @@
 ## 👋 Introduction
   **_LowkeySpots_** is a social app that enables users to share customized spots with each other on personal, interactive maps. 
 
-  ![image](https://github.com/ObliqueHacks/LowkeyPlaces/assets/73759561/d938c75a-2cd6-448b-b4f2-02af45d05d1f)
+  ![image](https://github.com/AkashSanthanam/LowkeySpots/assets/73759561/58f7ff6f-5f11-4c60-b4d6-5afad15295e7)
+
 
 
   The **Goal** of this project was to offer a distraction-free platform tailored for efficiency and simplicity. Its clean interface and intuitive design make it effortless for users to navigate and share their adventures, whether they're tech-savvy or new to the platform. Ideal for friends and family, LowkeySpots provides a personalized space to curate and share memories, adding an exclusive touch to social sharing experiences.
